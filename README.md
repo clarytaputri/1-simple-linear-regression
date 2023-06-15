@@ -1,1 +1,1 @@
-# 1-simple-linear-regression
+# simple-linear-regression-homeprice
